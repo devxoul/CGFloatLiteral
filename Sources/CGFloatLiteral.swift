@@ -23,13 +23,13 @@
 import CoreGraphics
 
 public extension IntegerLiteralType {
-    public var f: CGFloat {
-        return CGFloat(self)
-    }
+  public var f: CGFloat {
+    return CGFloat(self)
+  }
 }
 
 public extension FloatLiteralType {
-    public var f: CGFloat {
-        return CGFloat(self)
-    }
+  public var f: CGFloat {
+    return CGFloat(self)
+  }
 }

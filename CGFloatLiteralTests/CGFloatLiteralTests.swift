@@ -10,10 +10,10 @@ import XCTest
 @testable import CGFloatLiteral
 
 class CGFloatLiteralTests: XCTestCase {
-    
-    func textCGFloatLiteral() {
-        XCTAssertEqual(12.f, CGFloat(12))
-        XCTAssertEqual(12.3.f, CGFloat(12.3))
-    }
+
+  func textCGFloatLiteral() {
+    XCTAssertEqual(12.f, CGFloat(12))
+    XCTAssertEqual(12.3.f, CGFloat(12.3))
+  }
 
 }
