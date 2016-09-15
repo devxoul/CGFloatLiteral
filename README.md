@@ -25,19 +25,19 @@ Installation
 - **For iOS 8+ projects** with [CocoaPods](https://cocoapods.org):
 
     ```ruby
-    pod 'CGFloatLiteral', '~> 0.1'
+    pod 'CGFloatLiteral', '~> 0.2'
     ```
     
 - **For iOS 8+ projects** with [Carthage](https://github.com/Carthage/Carthage):
 
     ```
-    github "devxoul/CGFloatLiteral" ~> 0.1
+    github "devxoul/CGFloatLiteral" ~> 0.2
     ```
 
 - **For iOS 7 projects** with [CocoaSeeds](https://github.com/devxoul/CocoaSeeds):
 
     ```ruby
-    github 'devxoul/CGFloatLiteral', '0.1.0', :files => 'Sources/*.swift'
+    github 'devxoul/CGFloatLiteral', '0.2.0', :files => 'Sources/*.swift'
     ```
     
 - **Using [Swift Package Manager](https://swift.org/package-manager)**:
@@ -48,7 +48,7 @@ Installation
     let package = Package(
         name: "MyAwesomeApp",
         dependencies: [
-            .Package(url: "https://github.com/devxoul/CGFloatLiteral", "0.1.0"),
+            .Package(url: "https://github.com/devxoul/CGFloatLiteral", "0.2.0"),
         ]
     )
     ```
