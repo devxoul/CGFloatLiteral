@@ -1,7 +1,7 @@
 CGFloatLiteral
 ==============
 
-![Swift](https://img.shields.io/badge/Swift-2.1-orange.svg)
+![Swift](https://img.shields.io/badge/Swift-4.0-orange.svg)
 [![Build Status](https://travis-ci.org/devxoul/CGFloatLiteral.svg)](https://travis-ci.org/devxoul/CGFloatLiteral)
 [![CocoaPods](http://img.shields.io/cocoapods/v/CGFloatLiteral.svg)](https://cocoapods.org/pods/CGFloatLiteral)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
